@@ -15,7 +15,7 @@ Reinforcement Learning-Based Multi-Agent Path Finding.
 
 ## 仓库组成
 
-* [scr](src)
+* [src](src)
 项目源代码
 
 * [Presentation](Presentation.pptx)
